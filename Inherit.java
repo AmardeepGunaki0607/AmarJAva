@@ -18,5 +18,8 @@ class Dog extends Mammal{
 public class Main{
 	public static void main(Strind[] args){
 	  Dog myDog = new Dog();
+		myDog.Animal();
+		myDog.Mammal();
+		myDog.Dog();
 }
 }
